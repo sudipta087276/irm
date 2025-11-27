@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import io
 from scipy.ndimage import gaussian_laplace
 from forensic_analysis import AdvancedForensicAnalyzer
-from enhanced_forensic_analysis import EnhancedForensicAnalyzer
+from enhanced_forensic_analysis_simple import EnhancedForensicAnalyzerSimple as EnhancedForensicAnalyzer
 import seaborn as sns
 
 # ---- Directories ----
